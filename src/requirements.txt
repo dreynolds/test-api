@@ -1,2 +1,4 @@
 flask
 uwsgi
+python-jose-cryptodome
+requests
